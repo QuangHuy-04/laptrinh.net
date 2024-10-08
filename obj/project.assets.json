@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\nguye\\source\\repos\\QLSP\\QLSP\\QLSP.csproj",
       "projectName": "QLSP",
       "projectPath": "C:\\Users\\nguye\\source\\repos\\QLSP\\QLSP\\QLSP.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nguye\\source\\repos\\QLSP\\QLSP\\obj\\",
+=======
+      "projectUniqueName": "E:\\.net\\Collection\\Collection\\Collection.csproj",
+      "projectName": "Collection",
+      "projectPath": "E:\\.net\\Collection\\Collection\\Collection.csproj",
+      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+      "outputPath": "E:\\.net\\Collection\\Collection\\obj\\",
+>>>>>>> 871221faba421b29a5c0a1424b1ca4d68c17371f
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",

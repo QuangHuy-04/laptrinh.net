@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "7guk/Yb6gTM=",
   "success": true,
   "projectFilePath": "C:\\Users\\nguye\\source\\repos\\QLSP\\QLSP\\QLSP.csproj",
+=======
+  "dgSpecHash": "RY602r7MlWE=",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Collection\\Collection\\Collection.csproj",
+>>>>>>> 871221faba421b29a5c0a1424b1ca4d68c17371f
   "expectedPackageFiles": [],
   "logs": []
 }
