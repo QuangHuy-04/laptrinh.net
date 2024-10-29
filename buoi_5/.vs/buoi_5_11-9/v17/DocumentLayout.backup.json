@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\buoi_5_11-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380CD1E1-3000-4253-93A4-970EFFB96C77}|buoi_5_11-9.csproj|c:\\users\\admin\\source\\repos\\buoi_5_11-9\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380CD1E1-3000-4253-93A4-970EFFB96C77}|buoi_5_11-9.csproj|solutionrelative:bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380CD1E1-3000-4253-93A4-970EFFB96C77}|buoi_5_11-9.csproj|c:\\users\\admin\\source\\repos\\buoi_5_11-9\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380CD1E1-3000-4253-93A4-970EFFB96C77}|buoi_5_11-9.csproj|solutionrelative:baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380CD1E1-3000-4253-93A4-970EFFB96C77}|buoi_5_11-9.csproj|c:\\users\\admin\\source\\repos\\buoi_5_11-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380CD1E1-3000-4253-93A4-970EFFB96C77}|buoi_5_11-9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\buoi_5_11-9\\Bai2.cs",
+              "RelativeDocumentMoniker": "Bai2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\buoi_5_11-9\\Bai2.cs",
+              "RelativeToolTip": "Bai2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:39:00.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiTap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\buoi_5_11-9\\BaiTap.cs",
+              "RelativeDocumentMoniker": "BaiTap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\buoi_5_11-9\\BaiTap.cs",
+              "RelativeToolTip": "BaiTap.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:31:46.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\buoi_5_11-9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\buoi_5_11-9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:23:40.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

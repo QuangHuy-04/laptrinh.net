@@ -1,0 +1,114 @@
+﻿using System;
+
+public class BaiTap
+{
+    public void Bai1()
+    {
+        Console.Write("nhap so luong phan tu:");
+        int n = Convert.ToInt32(Console.ReadLine());
+        int[] a = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write($"nhap phan tu thu {i + 1}:");
+            a[i] = Convert.ToInt32(Console.ReadLine());
+        }
+        int sum = 0;
+        for (int i = 0; i < n; i++)
+        {
+            sum += a[i];
+        }
+        Console.WriteLine("tong cac phan tu trong mang la:" + sum);
+
+    }
+    public void Bai2() 
+    {
+        Console.Write("nhap mot chuoi:");
+        string a = Console.ReadLine();
+        int count = 0;
+        for (int i = 0; i < a.Length; i++)
+        {
+            char c = a[i];
+            if (!char.IsWhiteSpace(c) && !char.IsPunctuation(c))
+            {
+                count++;
+            }
+        }
+        Console.WriteLine("Sso luong ky tu trong chuoi (khong bao gom khoang trang va dau cau) la: " + count);
+    }
+    public void Bai3() 
+    {
+        Console.Write("nhap vao so luong phan tu:");
+        int n = Convert.ToInt32(Console.ReadLine());
+        int[] a = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write($"nhap phan tu thu {i + 1}:");
+            a[i] = Convert.ToInt32(Console.ReadLine());
+        }
+        int max = a[0];
+        for (int i = 0; i < n; i++)
+        {
+            if (a[i] > max)
+            {
+                max = a[i];
+            }
+        }
+        Console.Write("so lon nhat trong mang la: " + max);
+    }
+    public void Bai4() 
+    {
+        Console.Write("nhap mot chuoi:");
+        string x = Console.ReadLine();
+        char[] charx = x.ToCharArray();
+        Array.Reverse(charx);
+        string reversedString = new string(charx);
+        Console.Write("chuoi dao nguoc la:" + reversedString);
+
+    }
+    public void Bai5()
+    {
+        Console.Write("nhap so luong phan tu trong mang: ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        int[] a = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write($"nhap phan tu thu {i + 1}: ");
+            a[i] = Convert.ToInt32(Console.ReadLine());
+        }
+        bool isPalindrome = true;
+        for (int i = 0; i < n / 2; i++)
+        {
+            if (a[i] != a[n - 1 - i])
+            {
+                isPalindrome = false;
+                break;
+            }
+        }
+        if (isPalindrome)
+        {
+            Console.WriteLine("mang la doi xung(Palindrome)");
+        }
+        else
+        {
+            Console.WriteLine("mang khong doi xung");
+        }
+    }
+    public void Bai6() 
+    {
+        Console.Write("nhap mot chuoi:");
+        string x = Console.ReadLine();
+        Console.Write("nhap ky tu can dem:");
+        char characterToCount = Console.ReadKey().KeyChar;
+        Console.WriteLine();
+        int count = 0;
+        for (int i = 0; i < x.Length; i++)
+        {
+            if (x[i] == characterToCount)
+            {
+                count++;
+            }
+        }
+        Console.WriteLine($"ky tu '{characterToCount}' xuat hien {count} lan trong chuoi.");
+    }
+
+}
