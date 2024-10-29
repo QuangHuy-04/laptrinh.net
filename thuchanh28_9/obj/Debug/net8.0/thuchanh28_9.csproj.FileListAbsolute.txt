@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\thuchanh28_9\bin\Debug\net8.0\thuchanh28_9.exe
+C:\Users\Admin\source\repos\thuchanh28_9\bin\Debug\net8.0\thuchanh28_9.deps.json
+C:\Users\Admin\source\repos\thuchanh28_9\bin\Debug\net8.0\thuchanh28_9.runtimeconfig.json
+C:\Users\Admin\source\repos\thuchanh28_9\bin\Debug\net8.0\thuchanh28_9.dll
+C:\Users\Admin\source\repos\thuchanh28_9\bin\Debug\net8.0\thuchanh28_9.pdb
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\thuchanh28_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\thuchanh28_9.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\thuchanh28_9.AssemblyInfo.cs
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\thuchanh28_9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\thuchanh28_9.sourcelink.json
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\thuchanh28_9.dll
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\refint\thuchanh28_9.dll
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\thuchanh28_9.pdb
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\thuchanh28_9.genruntimeconfig.cache
+C:\Users\Admin\source\repos\thuchanh28_9\obj\Debug\net8.0\ref\thuchanh28_9.dll

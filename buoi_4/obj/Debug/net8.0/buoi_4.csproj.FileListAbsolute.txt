@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\buoi_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\buoi_4.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\buoi_4.AssemblyInfo.cs
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\buoi_4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\buoi_4\bin\Debug\net8.0\buoi_4.exe
+C:\Users\Admin\source\repos\buoi_4\bin\Debug\net8.0\buoi_4.deps.json
+C:\Users\Admin\source\repos\buoi_4\bin\Debug\net8.0\buoi_4.runtimeconfig.json
+C:\Users\Admin\source\repos\buoi_4\bin\Debug\net8.0\buoi_4.dll
+C:\Users\Admin\source\repos\buoi_4\bin\Debug\net8.0\buoi_4.pdb
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\buoi_4.dll
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\refint\buoi_4.dll
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\buoi_4.pdb
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\buoi_4.genruntimeconfig.cache
+C:\Users\Admin\source\repos\buoi_4\obj\Debug\net8.0\ref\buoi_4.dll
