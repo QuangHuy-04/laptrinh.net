@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Buoi9TH\bin\Debug\net8.0\Buoi9TH.exe
+C:\Users\Admin\source\repos\Buoi9TH\bin\Debug\net8.0\Buoi9TH.deps.json
+C:\Users\Admin\source\repos\Buoi9TH\bin\Debug\net8.0\Buoi9TH.runtimeconfig.json
+C:\Users\Admin\source\repos\Buoi9TH\bin\Debug\net8.0\Buoi9TH.dll
+C:\Users\Admin\source\repos\Buoi9TH\bin\Debug\net8.0\Buoi9TH.pdb
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\Buoi9TH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\Buoi9TH.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\Buoi9TH.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\Buoi9TH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\Buoi9TH.sourcelink.json
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\Buoi9TH.dll
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\refint\Buoi9TH.dll
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\Buoi9TH.pdb
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\Buoi9TH.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Buoi9TH\obj\Debug\net8.0\ref\Buoi9TH.dll
