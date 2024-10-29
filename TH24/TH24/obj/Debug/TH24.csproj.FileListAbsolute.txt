@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\TH24\TH24\bin\Debug\TH24.exe.config
+C:\Users\Admin\source\repos\TH24\TH24\bin\Debug\TH24.exe
+C:\Users\Admin\source\repos\TH24\TH24\bin\Debug\TH24.pdb
+C:\Users\Admin\source\repos\TH24\TH24\obj\Debug\TH24.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TH24\TH24\obj\Debug\TH24.Properties.Resources.resources
+C:\Users\Admin\source\repos\TH24\TH24\obj\Debug\TH24.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TH24\TH24\obj\Debug\TH24.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TH24\TH24\obj\Debug\TH24.exe
+C:\Users\Admin\source\repos\TH24\TH24\obj\Debug\TH24.pdb
+C:\Users\Admin\source\repos\TH24\TH24\obj\Debug\TH24.Form1.resources

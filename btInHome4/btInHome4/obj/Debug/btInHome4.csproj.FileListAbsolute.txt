@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\btInHome4\btInHome4\bin\Debug\btInHome4.exe.config
+C:\Users\Admin\source\repos\btInHome4\btInHome4\bin\Debug\btInHome4.exe
+C:\Users\Admin\source\repos\btInHome4\btInHome4\bin\Debug\btInHome4.pdb
+C:\Users\Admin\source\repos\btInHome4\btInHome4\obj\Debug\btInHome4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\btInHome4\btInHome4\obj\Debug\btInHome4.Form1.resources
+C:\Users\Admin\source\repos\btInHome4\btInHome4\obj\Debug\btInHome4.Properties.Resources.resources
+C:\Users\Admin\source\repos\btInHome4\btInHome4\obj\Debug\btInHome4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\btInHome4\btInHome4\obj\Debug\btInHome4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\btInHome4\btInHome4\obj\Debug\btInHome4.exe
+C:\Users\Admin\source\repos\btInHome4\btInHome4\obj\Debug\btInHome4.pdb

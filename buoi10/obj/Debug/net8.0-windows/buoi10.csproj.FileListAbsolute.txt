@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\buoi10\bin\Debug\net8.0-windows\buoi10.exe
+C:\Users\Admin\source\repos\buoi10\bin\Debug\net8.0-windows\buoi10.deps.json
+C:\Users\Admin\source\repos\buoi10\bin\Debug\net8.0-windows\buoi10.runtimeconfig.json
+C:\Users\Admin\source\repos\buoi10\bin\Debug\net8.0-windows\buoi10.dll
+C:\Users\Admin\source\repos\buoi10\bin\Debug\net8.0-windows\buoi10.pdb
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.Form1.resources
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.AssemblyInfo.cs
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.sourcelink.json
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.dll
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\refint\buoi10.dll
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.pdb
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\buoi10.genruntimeconfig.cache
+C:\Users\Admin\source\repos\buoi10\obj\Debug\net8.0-windows\ref\buoi10.dll

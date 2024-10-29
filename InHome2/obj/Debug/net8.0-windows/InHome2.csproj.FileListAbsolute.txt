@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\InHome2\bin\Debug\net8.0-windows\InHome2.exe
+C:\Users\Admin\source\repos\InHome2\bin\Debug\net8.0-windows\InHome2.deps.json
+C:\Users\Admin\source\repos\InHome2\bin\Debug\net8.0-windows\InHome2.runtimeconfig.json
+C:\Users\Admin\source\repos\InHome2\bin\Debug\net8.0-windows\InHome2.dll
+C:\Users\Admin\source\repos\InHome2\bin\Debug\net8.0-windows\InHome2.pdb
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.Form1.resources
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.sourcelink.json
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.dll
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\refint\InHome2.dll
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.pdb
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\InHome2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\InHome2\obj\Debug\net8.0-windows\ref\InHome2.dll

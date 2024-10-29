@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\bin\Debug\THSinhVien.exe.config
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\bin\Debug\THSinhVien.exe
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\bin\Debug\THSinhVien.pdb
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\obj\Debug\THSinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\obj\Debug\THSinhVien.Form1.resources
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\obj\Debug\THSinhVien.Properties.Resources.resources
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\obj\Debug\THSinhVien.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\obj\Debug\THSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\obj\Debug\THSinhVien.exe
+C:\Users\Admin\source\repos\THSinhVien\THSinhVien\obj\Debug\THSinhVien.pdb

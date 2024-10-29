@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\THSinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8F0A77-4CCC-4D32-9CF9-541B48EB8529}|THSinhVien\\THSinhVien.csproj|C:\\Users\\Admin\\source\\repos\\THSinhVien\\thsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB8F0A77-4CCC-4D32-9CF9-541B48EB8529}|THSinhVien\\THSinhVien.csproj|solutionrelative:thsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8F0A77-4CCC-4D32-9CF9-541B48EB8529}|THSinhVien\\THSinhVien.csproj|c:\\users\\admin\\source\\repos\\thsinhvien\\thsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8F0A77-4CCC-4D32-9CF9-541B48EB8529}|THSinhVien\\THSinhVien.csproj|solutionrelative:thsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8F0A77-4CCC-4D32-9CF9-541B48EB8529}|THSinhVien\\THSinhVien.csproj|C:\\Users\\Admin\\source\\repos\\THSinhVien\\thsinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8F0A77-4CCC-4D32-9CF9-541B48EB8529}|THSinhVien\\THSinhVien.csproj|solutionrelative:thsinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THSinhVien\\THSinhVien\\SinhVien.cs",
+              "RelativeDocumentMoniker": "THSinhVien\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THSinhVien\\THSinhVien\\SinhVien.cs",
+              "RelativeToolTip": "THSinhVien\\SinhVien.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:10:23.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THSinhVien\\THSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "THSinhVien\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THSinhVien\\THSinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "THSinhVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:16:38.863Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THSinhVien\\THSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "THSinhVien\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THSinhVien\\THSinhVien\\Form1.cs",
+              "RelativeToolTip": "THSinhVien\\Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:17:12.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

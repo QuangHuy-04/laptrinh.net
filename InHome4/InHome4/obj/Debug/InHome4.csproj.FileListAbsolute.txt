@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\InHome4\InHome4\bin\Debug\InHome4.exe.config
+C:\Users\Admin\source\repos\InHome4\InHome4\bin\Debug\InHome4.exe
+C:\Users\Admin\source\repos\InHome4\InHome4\bin\Debug\InHome4.pdb
+C:\Users\Admin\source\repos\InHome4\InHome4\obj\Debug\InHome4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\InHome4\InHome4\obj\Debug\InHome4.Form1.resources
+C:\Users\Admin\source\repos\InHome4\InHome4\obj\Debug\InHome4.Properties.Resources.resources
+C:\Users\Admin\source\repos\InHome4\InHome4\obj\Debug\InHome4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\InHome4\InHome4\obj\Debug\InHome4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InHome4\InHome4\obj\Debug\InHome4.exe
+C:\Users\Admin\source\repos\InHome4\InHome4\obj\Debug\InHome4.pdb

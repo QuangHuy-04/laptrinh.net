@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\btInHome4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F533B7-E3D3-48B0-9976-0D878D0D00A8}|btInHome4\\btInHome4.csproj|C:\\Users\\Admin\\source\\repos\\btInHome4\\btInHome4\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F533B7-E3D3-48B0-9976-0D878D0D00A8}|btInHome4\\btInHome4.csproj|solutionrelative:btInHome4\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F533B7-E3D3-48B0-9976-0D878D0D00A8}|btInHome4\\btInHome4.csproj|c:\\users\\admin\\source\\repos\\btinhome4\\btinhome4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42F533B7-E3D3-48B0-9976-0D878D0D00A8}|btInHome4\\btInHome4.csproj|solutionrelative:btinhome4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\btInHome4\\btInHome4\\Form1.cs",
+              "RelativeDocumentMoniker": "btInHome4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\btInHome4\\btInHome4\\Form1.cs",
+              "RelativeToolTip": "btInHome4\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAewEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:24:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\btInHome4\\btInHome4\\Form1.cs",
+              "RelativeDocumentMoniker": "btInHome4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\btInHome4\\btInHome4\\Form1.cs [Design]",
+              "RelativeToolTip": "btInHome4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:16:40.131Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
