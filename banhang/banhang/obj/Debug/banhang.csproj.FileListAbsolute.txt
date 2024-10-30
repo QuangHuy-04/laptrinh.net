@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\banhang\banhang\obj\Debug\banhang.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\banhang\banhang\obj\Debug\banhang.Form1.resources
+C:\Users\Admin\source\repos\banhang\banhang\obj\Debug\banhang.Properties.Resources.resources
+C:\Users\Admin\source\repos\banhang\banhang\obj\Debug\banhang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\banhang\banhang\obj\Debug\banhang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\banhang\banhang\bin\Debug\banhang.exe.config
+C:\Users\Admin\source\repos\banhang\banhang\bin\Debug\banhang.exe
+C:\Users\Admin\source\repos\banhang\banhang\bin\Debug\banhang.pdb
+C:\Users\Admin\source\repos\banhang\banhang\obj\Debug\banhang.exe
+C:\Users\Admin\source\repos\banhang\banhang\obj\Debug\banhang.pdb
